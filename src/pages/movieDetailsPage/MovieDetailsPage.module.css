@@ -1,0 +1,24 @@
+.containerDivNav {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  margin-bottom: 20px;
+}
+
+.movieDetailsButton {
+  margin-bottom: 20px;
+}
+
+.movieDetailsImg {
+  margin: 0 auto;
+}
+
+.app {
+  list-style: none;
+  text-decoration: none;
+  color: rgb(47, 115, 160);
+}
+
+.genreList {
+  list-style: none;
+}

@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  list-style: none;
+}
+.app {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+}
+.active {
+  color: red;
+}
